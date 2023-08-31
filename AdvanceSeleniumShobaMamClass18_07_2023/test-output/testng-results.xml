@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-30T07:34:09 AEST" name="Default suite" finished-at="2023-08-30T07:34:10 AEST" duration-ms="41">
+    <groups>
+    </groups>
+    <test started-at="2023-08-30T07:34:09 AEST" name="Default test" finished-at="2023-08-30T07:34:10 AEST" duration-ms="41">
+      <class name="testNGPractice.DataproviderExample">
+        <test-method signature="dataprovidermetho(java.lang.String,java.lang.String)[pri:0, instance:testNGPractice.DataproviderExample@e15b7e8]" started-at="2023-08-30T07:34:09 AEST" name="dataprovidermetho" data-provider="dataproviderExceute" finished-at="2023-08-30T07:34:09 AEST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Blore]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[goa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataprovidermetho -->
+        <test-method signature="dataprovidermetho(java.lang.String,java.lang.String)[pri:0, instance:testNGPractice.DataproviderExample@e15b7e8]" started-at="2023-08-30T07:34:09 AEST" name="dataprovidermetho" data-provider="dataproviderExceute" finished-at="2023-08-30T07:34:09 AEST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mysore]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chennai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataprovidermetho -->
+        <test-method signature="dataprovidermetho(java.lang.String,java.lang.String)[pri:0, instance:testNGPractice.DataproviderExample@e15b7e8]" started-at="2023-08-30T07:34:09 AEST" name="dataprovidermetho" data-provider="dataproviderExceute" finished-at="2023-08-30T07:34:10 AEST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[delhi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hyd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataprovidermetho -->
+      </class> <!-- testNGPractice.DataproviderExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
